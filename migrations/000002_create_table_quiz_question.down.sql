@@ -1,0 +1,1 @@
+drop table quiz_question;
